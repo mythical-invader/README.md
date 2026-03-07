@@ -47,7 +47,7 @@
 ### 🧠 Currently Exploring
 
 - React.js advanced concepts
-- UI/UX best practices with Tailwind CSS & Figma
+- UI/UX best practices with Bootstrap, Tailwind CSS & Figma
 
 ---
 
