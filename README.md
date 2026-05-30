@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning **React.js**, **Node.js**, and **MongoDB**
 - 👨‍💻 All of my projects are available at [https://github.com/mythical-invader](https://github.com/mythical-invader)
 - 📫 Reach me at **huzaifahsaleem1@gmail.com**
-- 📄 Know about my experiences [LinkedIn Profile](www.linkedin.com/in/huzaifah-saleem)
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/huzaifah-saleem)
 
 ---
 
 ### 🤝 Connect with me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/huzaifah-saleem" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/huzaifah-saleem" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
 
 ---
 
